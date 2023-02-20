@@ -49,7 +49,7 @@ describe('#example', function () {
         }
         const tx = await whitelistUser.sendTransaction(gaslessTx);
         const receipt = await tx.wait();
-        console.log("txHash:", receipt.transactionHash)
+        console.log(`tx: https://v1.testnet.gwscan.com/tx/${receipt.transactionHash}`)
         //check state changed
         const value = await simpleStorage.getValue()
         expect(value).to.be.equal(randomNum)

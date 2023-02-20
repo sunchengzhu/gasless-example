@@ -21,8 +21,8 @@ yarn hardhat test
 
 ## contract address
 
-[GaslessEntryPoint](https://v1.betanet.gwscan.com/account/0x791ec459f57362256f313f5512bdb9f6d7cae308)  
-[GaslessDemoPaymaster](https://v1.betanet.gwscan.com/account/0xf6771069e7e7bf2bf5e4fce6db7bbbbf6ced67e9?tab=contract)  
-[GaslessDemoPaymaster owner](https://v1.betanet.gwscan.com/account/0x7752DCD7c6ce4aED048c028021D635CBEc6C001D)  
-[whitelistUser](https://v1.betanet.gwscan.com/account/0x3499932d7a1D1850253d6c66d830e3524bb3F2a7)  
-[SimpleStorage](https://v1.betanet.gwscan.com/account/0x93a6e598eb7608edd037d6701e76f69ce97c30bf?tab=contract)
+[GaslessEntryPoint](https://v1.testnet.gwscan.com/account/0x791ec459f57362256f313f5512bdb9f6d7cae308)  
+[GaslessDemoPaymaster](https://v1.testnet.gwscan.com/account/0xf6771069e7e7bf2bf5e4fce6db7bbbbf6ced67e9?tab=contract)  
+[GaslessDemoPaymaster owner](https://v1.testnet.gwscan.com/account/0x7752DCD7c6ce4aED048c028021D635CBEc6C001D)  
+[whitelistUser](https://v1.testnet.gwscan.com/account/0x3499932d7a1D1850253d6c66d830e3524bb3F2a7)  
+[SimpleStorage](https://v1.testnet.gwscan.com/account/0x93a6e598eb7608edd037d6701e76f69ce97c30bf?tab=contract)
